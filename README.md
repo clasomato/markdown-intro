@@ -1,8 +1,8 @@
 # Jason Climo CV
-> Jason Climo
-> [Portfolio](http://climostudios.online)
-> 5 Imlay Cres Ngaio, Wellington 6035
-> jason@rainfox.co.nx
+> Jason Climo  
+> [Portfolio](http://climostudios.online)  
+> 5 Imlay Cres Ngaio, Wellington 6035  
+> jason@rainfox.co.nx  
 
 ## Objective
 I would like to build my work skills and experience in both Web Development and design industry so I can sufficiently support myself and be self-reliant.
@@ -20,4 +20,4 @@ I am enthusiastic and excited to build and improve my work experience.
 ## Work History
 * Website Development: Cafe Villa
 * Website Development Di Clifford
-*  Contracted Cleaner
+* Contracted Cleaner
